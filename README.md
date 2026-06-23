@@ -37,6 +37,7 @@ Current functionality:
 - Object-oriented programming principles
 
 ### Project Structure
+```text
 Calculator
 ├── Display Panel
 │   └── TextField
@@ -45,6 +46,7 @@ Calculator
     ├── Number Buttons
     ├── Operator Buttons
     └── Action Buttons
+```
 
 ### Running the Application
 1. Clone the repository.
